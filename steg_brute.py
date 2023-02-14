@@ -80,7 +80,7 @@ def steghide(ifile, passwd):
 
 def main():
     argp = ArgumentParser(
-            description="Steghide Brute Force Tool",
+            description="Steghide Brute Force Tool By TRHACKNON",
             usage="./steg_brute.py [options] [-f image_file]",
             version="Steghide Brute Force Tool v" + VERSION)
 
