@@ -12,6 +12,7 @@ Cloning this repo to your computer and typing in your terminal:<br/>
 <code>steg_brute --help</code>
 
 ##
+<p align="center"><img src="./Screenshot_2023-02-15-02-29-05-568-edit_com.termux.jpg" alt="steg_brute usage"></p>
 
 
 To launch the script by typing:<br/>
