@@ -1,6 +1,9 @@
 # Steghide Brute Force Tool
 Execute a brute force attack with Steghide to file with hide information and password established.
 
+<h1>prefer the binary installation because i have solved so dependencies issues</h1>
+
+
 # How it work
 Cloning this repo to your computer and typing in your terminal:<br/>
 <code>git clone https://github.com/trhacknon/Steghide-Brute-Force-Tool.git</code>
